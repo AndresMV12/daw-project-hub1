@@ -157,6 +157,19 @@ Se realizó un segundo commit para atender la solicitud y se actualizó la misma
 - **Pull request enviada:** https://github.com/AndresMV12/AulaDeploy-0.1/pull/3
 - **Rama utilizada:** docs/mejorar-readme
 
+- ## Recomendaciones para colaborar
+
+Para trabajar correctamente en un proyecto compartido con Git y GitHub es recomendable:
+
+- Crear una rama para cada mejora.
+- Realizar commits pequeños y descriptivos.
+- Revisar los cambios antes de crear una pull request.
+- Mantener actualizada la rama principal.
+- No publicar contraseñas ni archivos privados.
+- Comprobar que la aplicación funciona antes de fusionar cambios.
+
+Estas recomendaciones ayudan a mantener un historial organizado y facilitan la colaboración entre desarrolladores.
+
 La colaboración se ha simulado utilizando dos cuentas propias de GitHub.
 
 ## Autoría
