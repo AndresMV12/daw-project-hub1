@@ -91,3 +91,48 @@ incorporarlas a nuestro trabajo y detectar posibles problemas.
 ### ¿Qué relación existe entre fetch y pull?
 Git pull realiza primero una descarga similar a git fetch
 y después integra los cambios mediante merge o rebase.
+
+## Forks y colaboración
+
+### 1. ¿Qué es un fork en GitHub?
+Un fork es una copia de un repositorio que se crea en nuestra
+cuenta de GitHub para poder trabajar en él sin modificar
+directamente el proyecto original.
+
+### 2. ¿En qué se diferencia un fork de una rama?
+Una rama es una línea de desarrollo dentro de un repositorio.
+Un fork es otro repositorio independiente, aunque está
+relacionado con el original.
+
+### 3. ¿En qué cuenta se almacena un fork?
+Normalmente se almacena en la cuenta de GitHub de la persona
+que lo crea.
+
+### 4. ¿Cuándo es útil trabajar mediante un fork?
+Cuando queremos colaborar en un proyecto de otra persona
+sin tener permisos para modificar directamente su repositorio.
+
+### 5. ¿Qué relación existe entre el repositorio original y el fork?
+El fork parte del repositorio original, pero después puede
+tener cambios diferentes. Ambos pueden seguir evolucionando.
+
+### 6. ¿Qué es el repositorio upstream?
+Es el repositorio original del que procede nuestro fork.
+Podemos utilizarlo para consultar y descargar sus cambios.
+
+### 7. ¿Qué diferencia existe entre origin y upstream?
+Origin suele identificar nuestro repositorio remoto.
+Upstream suele identificar el repositorio original
+del que hemos creado el fork.
+
+### 8. ¿Cómo enviamos cambios del fork al repositorio original?
+Podemos crear una pull request para proponer que los
+responsables del proyecto incorporen nuestras modificaciones.
+
+### 9. ¿Quién decide si se acepta la propuesta?
+Los responsables del repositorio original, después de
+revisar los cambios realizados.
+
+### 10. ¿Puede seguir evolucionando el repositorio original?
+Sí. El repositorio original puede recibir nuevos commits
+aunque existan forks creados por otros desarrolladores.
