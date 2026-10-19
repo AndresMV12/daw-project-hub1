@@ -56,3 +56,26 @@ footer {
         padding: 15px;
     }
 }
+
+/* Mejoras de presentación de los párrafos */
+section p {
+    font-size: 17px;
+    line-height: 1.8;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-left: 5px solid;
+    background-color: #f8f9fa;
+    border-radius: 5px;
+}
+
+.desarrollo {
+    border-left-color: #3498db;
+}
+
+.despliegue {
+    border-left-color: #27ae60;
+}
+
+.colaboracion {
+    border-left-color: #e67e22;
+}
