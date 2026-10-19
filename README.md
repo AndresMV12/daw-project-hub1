@@ -68,3 +68,8 @@ desde un navegador.
 
 La página está desarrollada únicamente con HTML y CSS,
 por lo que no necesita instalar dependencias adicionales.
+
+## Actualización desde GitHub
+
+Este apartado se ha añadido directamente desde GitHub
+para comprobar cómo funcionan git fetch y git pull.
