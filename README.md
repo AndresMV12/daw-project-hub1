@@ -56,3 +56,15 @@ fusión mediante un commit.
 
 Finalmente, se comprobó la resolución revisando el
 historial de Git y el funcionamiento de la página web.
+
+## Cómo abrir la página
+
+Para abrir la página web debemos descargar o clonar
+el repositorio de GitHub.
+
+Después, abrimos la carpeta del proyecto en Visual Studio
+Code y ejecutamos index.html con Live Server o directamente
+desde un navegador.
+
+La página está desarrollada únicamente con HTML y CSS,
+por lo que no necesita instalar dependencias adicionales.
