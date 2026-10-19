@@ -73,3 +73,21 @@ por lo que no necesita instalar dependencias adicionales.
 
 Este apartado se ha añadido directamente desde GitHub
 para comprobar cómo funcionan git fetch y git pull.
+
+## Diferencias entre fetch y pull
+
+### ¿Qué hace git fetch?
+Descarga los cambios del repositorio remoto, pero no modifica
+automáticamente los archivos de nuestra rama local.
+
+### ¿Qué hace git pull?
+Descarga los cambios del repositorio remoto y los integra
+en nuestra rama local.
+
+### ¿Por qué es útil git fetch?
+Porque nos permite revisar las modificaciones antes de
+incorporarlas a nuestro trabajo y detectar posibles problemas.
+
+### ¿Qué relación existe entre fetch y pull?
+Git pull realiza primero una descarga similar a git fetch
+y después integra los cambios mediante merge o rebase.
