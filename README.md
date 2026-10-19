@@ -34,3 +34,25 @@ comprobar si alguien ha podido utilizarla.
 No, porque seguirá apareciendo en el historial de Git.
 También habría que limpiar las copias del historial donde
 aparezca la información.
+
+## Conflicto resuelto
+
+Durante el desarrollo del proyecto se provocó un conflicto
+de fusión entre las ramas main y feature/nuevo-eslogan.
+
+El conflicto ocurrió porque ambas ramas modificaron
+la misma línea del archivo index.html, concretamente
+el párrafo de presentación de la página.
+
+Git no pudo decidir automáticamente qué versión conservar,
+por lo que fue necesario resolver el conflicto manualmente.
+
+Para solucionarlo, se redactó un nuevo eslogan que combina
+las ideas de las dos ramas.
+
+Después se eliminaron los marcadores del conflicto,
+se añadió el archivo con git add y se completó la
+fusión mediante un commit.
+
+Finalmente, se comprobó la resolución revisando el
+historial de Git y el funcionamiento de la página web.
