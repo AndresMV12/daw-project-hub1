@@ -136,3 +136,29 @@ revisar los cambios realizados.
 ### 10. ¿Puede seguir evolucionando el repositorio original?
 Sí. El repositorio original puede recibir nuevos commits
 aunque existan forks creados por otros desarrolladores.
+
+## Colaboración realizada
+
+Para practicar el trabajo colaborativo con Git y GitHub se ha utilizado el repositorio AulaDeploy-0.1.
+
+Se creó una propuesta de mejora mediante una issue para ampliar las instrucciones de ejecución del proyecto.
+
+Después se realizó un fork, se configuraron los remotos origin y upstream y se creó una rama de documentación.
+
+Los cambios se enviaron mediante una pull request. Durante su revisión se solicitó añadir un apartado de solución de problemas frecuentes.
+
+Se realizó un segundo commit para atender la solicitud y se actualizó la misma pull request. Finalmente, los cambios fueron aprobados e integrados en la rama principal.
+
+### Enlaces de colaboración
+
+- **Repositorio original:** https://github.com/AndresMV12/AulaDeploy-0.1
+- **Fork:** https://github.com/andresmolinavarela07-dot/AulaDeploy-0.1
+- **Issue creada:** https://github.com/AndresMV12/AulaDeploy-0.1/issues/2
+- **Pull request enviada:** https://github.com/AndresMV12/AulaDeploy-0.1/pull/3
+- **Rama utilizada:** docs/mejorar-readme
+
+La colaboración se ha simulado utilizando dos cuentas propias de GitHub.
+
+## Autoría
+
+Proyecto realizado por Andres para la asignatura Despliegue de Aplicaciones Web de 2.º de DAW.
